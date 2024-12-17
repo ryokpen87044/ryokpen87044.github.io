@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# modules
+node_modules
+
+# Build files
+dist/
+docs/
+
+# jetbrains
+.idea/
+
+# VisualStudioCode
+.vscode/
